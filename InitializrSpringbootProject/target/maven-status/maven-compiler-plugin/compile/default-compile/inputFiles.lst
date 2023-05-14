@@ -1,0 +1,17 @@
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Service/IEducacion.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/CorsConfig.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/CExperiencia.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Repository/RExperiencia.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Service/SExperiencia.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/Mensaje.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/CorsConfiguration.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Repository/IPersonaRepository.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Dto/dtoExperiencia.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/PortfolioApplication.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Entity/Experiencia.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Entity/Persona.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/Controlador.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Entity/Educacion.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Service/ImpPersonaService.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Interface/IPersonaService.java
+/home/yanet/Programación/Back-End/InitializrSpringbootProject/src/main/java/com/portfolio/yt/Controller/PersonaControler.java
