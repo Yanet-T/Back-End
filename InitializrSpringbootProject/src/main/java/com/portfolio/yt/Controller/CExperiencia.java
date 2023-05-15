@@ -29,20 +29,20 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("explab")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://porfolio-frontend-yanet.web.app")
 
 public class CExperiencia {
     @Autowired
     SExperiencia sExperiencia;
     
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "https://porfolio-frontend-yanet.web.app")
     @GetMapping("/lista")
     public ResponseEntity<List<Experiencia>> list(){
         List<Experiencia> list = sExperiencia.list();
         return new ResponseEntity(list, HttpStatus.OK);
     }
    
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "https://porfolio-frontend-yanet.web.app")
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoExperiencia dtoexperiencia){
         if(StringUtils.isBlank(dtoexperiencia.getNombreE()))

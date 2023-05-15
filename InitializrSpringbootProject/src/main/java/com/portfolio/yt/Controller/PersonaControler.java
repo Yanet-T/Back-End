@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://porfolio-frontend-yanet.web.app")
 /**
  *Buenas dias =3
  * @author yanet
